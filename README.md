@@ -1,4 +1,6 @@
-
+![Release](https://img.shields.io/github/v/release/NoCoderRandom/killall)
+![Downloads](https://img.shields.io/github/downloads/NoCoderRandom/killall/total)
+![License](https://img.shields.io/github/license/NoCoderRandom/killall)
 
 # killall — Windows 11 Intelligent Process Termination Tool
 
