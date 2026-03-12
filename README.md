@@ -1,3 +1,7 @@
+![Release](https://img.shields.io/github/v/release/NoCoderRandom/killall)
+![Downloads](https://img.shields.io/github/downloads/NoCoderRandom/killall/total)
+![License](https://img.shields.io/github/license/NoCoderRandom/killall)
+
 # killall — Windows 11 Intelligent Process Termination Tool
 
 A modern, safe, Windows-native equivalent of UNIX `killall` with three-tier safety protection, process tree awareness, and specialized subcommands for GPU, network, hung apps, LLM, and game processes.
