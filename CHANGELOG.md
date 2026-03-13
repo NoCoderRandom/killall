@@ -11,8 +11,6 @@ Bugfix release. No feature changes.
 - `--version` / `-V` flag to display the current version.
 - Version number (`1.0.1`) embedded in the assembly metadata.
 
-### Changed
-- Build configuration updated with `TrimmerRoots.xml` to preserve WMI support in portable builds.
 
 ---
 
