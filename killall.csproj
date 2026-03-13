@@ -23,7 +23,6 @@
 
   <ItemGroup>
     <TrimmerRootAssembly Include="System.Management" />
-    <TrimmerRootDescriptor Include="TrimmerRoots.xml" />
   </ItemGroup>
 
 </Project>

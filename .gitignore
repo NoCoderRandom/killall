@@ -9,7 +9,6 @@ publish/
 *.suo
 *.cache
 *.xml
-!TrimmerRoots.xml
 *.log
 *.db
 *.bak
